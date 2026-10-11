@@ -1,0 +1,4 @@
+interface:
+  display_name: "原画差分与纸片动画"
+  short_description: "用像素分区、供体差分、接缝和重心约束修复二维纸片素材，附实际输出检查"
+  default_prompt: "使用 $cutout-animation 保留已认可原画，修复局部差分或绑定，并输出原图标记、像素检查和实际关键帧。"
